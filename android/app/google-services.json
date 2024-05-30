@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17474594596",
+    "project_id": "smart-shop-eda60",
+    "storage_bucket": "smart-shop-eda60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17474594596:android:4a9c5e4bfb8898fdeaf5b1",
+        "android_client_info": {
+          "package_name": "com.example.smart_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcu1ofgS1bpcLGkYnGMy01WO8KZoMW_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
